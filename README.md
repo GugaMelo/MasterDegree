@@ -1,2 +1,2 @@
 # MasterDegree
-A reference document and scripts of my thesis
+A reference document and scripts of my thesis.
